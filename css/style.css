@@ -1,0 +1,546 @@
+a{
+    text-decoration: none;
+}
+
+/* start section 1 */
+.header{
+    background-image: url(../image/Group\ 9.png);
+    width: 1336px;
+    height: 662px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 80px;
+    display: flex;
+   
+}
+.logo{
+    margin-left: 139px;
+    color: white;
+    padding-top: 20px;
+}
+.menu{
+    margin-left: 441px; 
+}
+.menu ul{
+    display: flex;
+    padding-top: 21px;
+    
+}
+.nav-a{
+    color: white;
+    font-size: 12px;
+    padding-left: 50px;   
+}
+
+
+.satauri{
+    position: absolute;
+    width: 576px;
+    height: 160px;
+    padding-top: 209px;
+    padding-left: 139px;
+    padding-bottom: 293px;
+    padding-right: 651px;
+}
+.satauri h1{
+    position: absolute;
+    color: white;
+    font-size: 62px;
+    font-weight: bold;
+    padding-bottom: 209px;
+   
+}
+.satauri p{
+    width: 352px;
+    height: 64px;
+    font-size: 14px;
+    color: white;
+    padding-top: 200px;
+}
+
+
+
+/* check box */
+.container{
+    width: 1088px;
+    height: 148px;
+    /* background-color: #FFFFFF; */
+    margin-top: -70px;
+}
+
+
+.inpute{
+    /* width: 300px; */
+    display: flex;
+    background-color: whitesmoke;
+    margin-left: 139px;
+    margin-right: 139px;
+}
+.input{
+    
+    width: 1366px;
+    height: 170px;
+   
+   padding-left: 139px;
+}
+.dataname{
+    color: #5863F8;
+    font-size: 13px;
+    font-weight: bold;
+    /* padding-top: 53px; */
+    padding-top: 32px;
+}
+#date{
+    width: 250px;
+    height: 50px;
+    /* margin-top: -15px; */
+}
+.button1{
+    width: 51px;
+    height: 51px;
+    background-color: blue;
+    margin-top: 55px;   
+     margin-right: 145px;
+   
+}
+.inp2{
+    padding-left: 16px;
+    
+ }
+ 
+ .inp3{
+     
+     padding-left: 16px;
+ }
+ .inp4{
+     
+     padding-left: 16px;
+ }
+ 
+ 
+
+
+/* start section 2 */
+ .topheader{
+    width: 1336px;
+    margin-left: 80px;
+    height: 662px;
+    display: flex;
+
+}
+
+
+.text{
+    
+    margin-top: 150px;
+    margin-left: 139px;
+}
+.text h6{
+    font-weight: bold;
+    color: blue;
+}
+.text h2{
+    width: 374px;
+    height: 115px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    /* font-weight: ExstraBold; */
+}
+
+.lorem{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.lorem2{
+    font-size: 14px;
+    
+}
+
+.read{
+    background-color: blue;
+    width: 184px;
+    height: 50px;
+    margin-top: 20px;
+}
+.readmore{
+    font-weight: bold;
+    color: white;
+    padding-left: 42px;
+    padding-top: 15px;
+    
+}
+
+
+.imageall{
+    padding-right: 691px;
+    padding-left: 139px;
+    /* padding-top: 15px; */
+    margin-top: 90px;
+}
+.img1 img{
+    padding-right: 8px;
+    padding-top: 50px;
+}
+.img2 img{
+    padding-left: 8px;
+    padding-top: 50px;
+}
+.image3 img{
+    margin-right: 7px;
+    margin-top: 8px;
+}
+
+
+
+/* start section 3 */
+.leafimage{
+    background-image: url(../image/Group\ 13.png);
+    width: 1336px;
+    height: 612px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 80px;
+
+}
+
+
+
+.text2{
+  
+    padding-top: 115px;
+    padding-right: 851px;
+    padding-left: 139px;
+   
+}
+.text2 h6{
+    font-weight: bold;
+    color: blue;
+    padding-top: 1px;
+}
+.text2 h2{
+    width: 376px;
+    height: 115px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    color: white;
+   
+}
+
+.cardboxes{
+    display: flex;
+    margin-right: 139px;
+    
+    
+}
+
+.icon{
+    margin-left: 47px;
+    margin-top: 85px;
+}
+
+.card1{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 16px;
+    
+}
+.card2{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 16px;
+    /* margin-right: 691px; */
+}
+ .card3{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 16px;
+} 
+ .card4{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 16px;
+    
+} 
+
+
+
+.circle{
+    position: relative;
+    border-radius: 100%;
+    border: 6px solid blue;
+    background-color: blue;
+    width: 59px;
+    height: 58px;
+   margin-top: 27px;
+   margin-left: 90px;
+
+}
+
+.flat{
+    padding-top: 13px;
+    padding-left: 13.3px;
+    
+}
+.icon1{
+   margin-left: 15px;
+   margin-top: 85px;
+   
+}
+.card1-1{
+    font-size: 18px;
+    height: 52px;
+    width: 166px;
+    margin-top: 15px;
+    padding-left: 50px;
+}
+.card2-2{
+    font-size: 18px;
+    height: 52px;
+    width: 160px;
+    margin-top: 15px;
+    padding-left: 52px;
+}
+.card3-3{
+    font-size: 18px;
+    height: 52px;
+    width: 156px;
+    margin-top: 15px;
+    padding-left: 52px;
+   
+}
+.card4-4{
+    font-size: 18px;
+    height: 52px;
+    width: 188px;
+     margin-top: 15px;
+    padding-left: 36px;
+}
+
+.card-1{
+    height: 62px;
+    width: 221px;
+    padding-left: 19px;
+    margin-top: 10px;
+    color: gray;
+    font-size: medium;
+    font-size: 14px;
+    
+}
+
+/* start section 4 */
+.testimonials{
+    margin-left: 80px;
+    width: 1366px ;
+    height: 487px;
+}
+
+.one{
+    padding-left: 139px;
+}
+.one p{
+    color: blue;
+    margin-top: 76px;
+    font-size: 14px;
+}
+.one h2{
+    margin-top: 7px;
+    width: 512px;
+    height: 115px;
+    font-size: 42px;
+}
+
+.twoimg{
+    height: 487px;
+    width: 583px;
+    margin-left: 103px;
+    
+}
+
+/*  */
+
+.restaurant{
+    margin-left: 80px;
+    margin-top: 75px;
+    padding-left: 139px;
+}
+
+.restcolor{
+    color: blue;
+    font-weight: bold;
+    font-size: 14px;
+}
+.restaurant h2{
+    width: 498px;
+    height: 115px;
+    font-size: 42px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.box1{
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+    margin-left: 280px;
+    /* margin-top: 10px; */
+    padding-left: 25px;
+  margin-top: -35px;
+  position: relative;
+  padding-top: 15px;
+}
+.cardfood{
+    display: flex;
+    padding-top: 50px;
+}
+
+.food1{
+    width: 536px;
+    height: 190px;
+    
+}
+.picture1{
+    height: 190px;
+    width: 168px;
+}
+
+.food2{
+    width: 536px;
+    height: 190px;
+    margin-left: 16px;
+   
+}
+
+.cardfood2{
+    display: flex;
+    
+}
+.picture2{
+    height: 190px;
+    width: 168px;
+}
+.card-title{
+   color: blue;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+.card-text{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+
+
+}
+.card-text2{
+    color: gray;
+    width: 260px;
+    height: 62px;
+    
+}
+
+
+
+/*  */
+.blog{
+    margin-left: 80px;
+    margin-top: 75px;
+    padding-left: 139px
+}
+.cardfoodes1{
+    display: flex;
+    
+}
+
+.image11{
+    height: 212px;
+    width: 352px;
+    
+}
+.cards{
+    background-color: #f8f8f8;
+    margin-right: 16px;
+}
+.card-textt{
+    padding-top: 23px;
+    font-size: 14px;
+    font-weight: bold;
+    color: blue;
+    margin-left: 125px;
+
+    
+}
+.hotels{
+    width: 260px;
+    height: 42px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 53px;
+    
+}
+.fresh{
+    width: 260px;
+    height: 42px;
+    color: gray;
+    margin-top: 10px;
+    margin-left: 46px;
+}
+
+
+
+
+
+
+
+
+
+/* photos */
+
+
+.photos{
+    width: 1336px;
+    height: 352px;
+    margin-left: 80px;
+}
+.phototext{
+    margin-left: 139px;
+    margin-top: 90px;
+    
+}
+.photos2{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    width: 58px;
+    height: 20px;
+}
+.phototext2{
+    width: 565px;
+    height: 115px;
+    font-weight: bold;
+    font-size: 42px;
+}
+.button2{
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    margin-top: 146px;
+    position: absolute;
+    padding-left: 20px;
+    margin-left: 1200px;
+    
+    
+ }
+ .button2 img{
+     padding-top: 20px;
+ }
+
+/* footer */
+.footer{
+    height: 395px;
+    width: 1366px;
+}
