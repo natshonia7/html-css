@@ -1,0 +1,224 @@
+a{
+    text-decoration: none;
+}
+/* .body{
+    width: 1366px;
+} */
+.container{
+    width: 1366px;
+    height: 324px;
+    position: relative;
+}
+
+.menu{
+    position: absolute;
+    left: 139px;
+    top: 30px;
+}
+.logo{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    width: 86px;
+    height: 20px;
+    padding-top: 30px;
+    
+}
+.list ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 439px;    
+    
+}
+.nav-a{
+    color: white;
+    font-size: 12px;
+    padding-left: 49px;   
+    font-weight: bold;
+    font-size: 12px;
+   
+}
+.heading h1{
+    color: #FFFFFF;
+    width: 246px;
+    height: 59px;
+    font-weight: bolder;
+    font-size: 42px;
+    padding-top: 96px;
+    
+}
+
+.home{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 30px;
+    padding-top: 30px;
+   
+    width: 42px;
+    
+   
+}
+.home2{
+   color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    
+    
+}
+.divider{
+   border: 1px solid white;
+   margin-left: 14.5px;
+}
+.home3{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 14.5px;
+}
+
+/* imageall */
+.cont1{
+    width: 1366px;
+    height: 460px;
+     
+}
+.imageall{
+    display: flex;
+    margin-top: 90px;
+   /* margin-right: 139px; */
+   margin-left: 139px;
+   /* position: relative; */
+
+}
+.image1 img{
+    width: 260px;
+    height: 461px;
+    object-fit: cover;
+    
+}
+.imageone{
+    width: 260px;
+    height: 185px;
+    padding-left: 16px;
+}
+
+.imagetwo{
+    position: absolute;
+    width: 245px;
+    height: 260px;
+    margin-top: 200px;
+    margin-left: 275px;
+    
+}
+
+/* section 2 */
+.divcont1{
+     width: 1366px;
+    height: 100%;
+}
+.map{
+    width: 1088px;
+    height: 286px;
+   margin-left: 139px;
+   margin-right: 139px;
+   margin-top: 50px;
+
+}
+
+/* section 3 */
+.divcont2{
+    width: 1366px;
+    height: 100%;
+}
+.contact{
+    margin-left: 139px;
+    margin-right: 139px;
+    color: #5863F8;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 54px;
+}
+.support{
+    margin-left: 139px;
+    margin-right: 139px;
+    font-size: 42px;
+    font-weight: bold;
+    width: 365px;
+    height: 115px;
+}
+
+.divcont3{
+    width: 1366px;
+    height: 100%;
+    display: flex;
+    
+}
+
+.descriptioncomment{
+    resize: none;
+    width: 720px;
+    height: 288px;
+    margin-left: 139px;
+    color: #F8F8F8;
+}
+.formboxes{
+   margin-left: 10px;
+   
+   
+}
+
+.formbox1{
+    width: 352px;
+    height: 60px;
+    color: #F8F8F8;
+ 
+}
+.formbox2{
+    width: 352px;
+    height: 60px;
+    color: #F8F8F8;
+    margin-top: 16px;
+ 
+}
+.click{
+    width: 352px;
+    height: 60px;
+    background-color: #5863F8;
+    margin-top: 16px;
+}
+
+.divcont4{
+    width: 1366px;
+    height: 100%;
+}
+.email{
+    background-color: blue;
+    width: 59px;
+    height: 58px;
+    border-radius: 30px;
+    margin-left: 280.5px;
+    margin-top: 50px;
+}
+
+.email img{
+    padding-left: 19px;
+    padding-top: 22px;
+}
+.emailtext{
+    margin-top: 30px;
+    margin-left: 285px;
+    width: 50px;
+    height: 25px;
+}
+.Gmail{
+    padding-right: 30px;
+    width: 362px;
+    height: 44px;
+    font-size: 14px;
+    margin-left: 129px;
+}
+.Gmail2{
+    padding-left: 300px;
+}
