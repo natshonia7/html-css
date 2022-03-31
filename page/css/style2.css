@@ -1,0 +1,377 @@
+a{
+    text-decoration: none;
+}
+/* .body{
+    width: 1366px;
+} */
+.container{
+    width: 1366px;
+    height: 324px;
+    position: relative;
+}
+
+.menu{
+    position: absolute;
+    left: 139px;
+    top: 30px;
+}
+.logo{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    width: 86px;
+    height: 20px;
+    padding-top: 30px;
+    
+}
+.list ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 439px;    
+    
+}
+.nav-a{
+    color: white;
+    font-size: 12px;
+    padding-left: 49px;   
+    font-weight: bold;
+    font-size: 12px;
+   
+}
+.heading h1{
+    color: #FFFFFF;
+    width: 246px;
+    height: 59px;
+    font-weight: bolder;
+    font-size: 42px;
+    padding-top: 96px;
+    
+}
+
+.home{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 30px;
+    padding-top: 30px;
+   
+    width: 42px;
+    
+   
+}
+.home2{
+   color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    
+    
+}
+.divider{
+   border: 1px solid white;
+   margin-left: 14.5px;
+}
+.home3{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 14.5px;
+}
+
+/* imageall */
+.cont1{
+    width: 1366px;
+    height: 460px;
+     
+}
+.imageall{
+    display: flex;
+    margin-top: 90px;
+   /* margin-right: 139px; */
+   margin-left: 139px;
+   /* position: relative; */
+
+}
+.image1 img{
+    width: 260px;
+    height: 461px;
+    object-fit: cover;
+    
+}
+.imageone{
+    width: 260px;
+    height: 185px;
+    padding-left: 16px;
+}
+
+.imagetwo{
+    position: absolute;
+    width: 245px;
+    height: 260px;
+    margin-top: 200px;
+    margin-left: 275px;
+    
+}
+
+/* section2 */
+.restaurant{
+    margin-left: 768px;
+    margin-top: -451px;
+    padding-top: 45px;
+    margin-bottom: 200px;
+   
+}
+
+.one{
+    color: #5863F8;
+    font-size: 14px;
+    font-weight: bold;
+}
+.two{
+    font-size: 42px;
+    font-weight: bolder;
+    width: 427px;
+    height: 115px;
+   padding-top: 10px;
+}
+
+.three{
+    width: 444px;
+    height: 77px;
+    font-size: 16px;
+    color: #000000;
+    padding-top: 16px;
+    font-weight: bold;
+}
+.four{
+    padding-top: 15px;
+    width: 444px;
+    height: 84px;
+}
+.button{
+    background-color: #5863F8;
+    width: 184px;
+    height: 50px;
+    margin-top: 20px;
+
+}
+
+
+/* faf */
+.cont2{
+   width: 1366px;
+   height: 100%;
+}
+.restaurant2{
+   
+   margin-top: 90px;
+    margin-left: 139px;   
+}
+
+.restcolor{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+}
+.ourmenu{
+    font-size: 42px;
+    font-weight: bold;
+    width: 498px;
+    height: 115px;
+    padding-top: 10px;
+}
+.restaurant h2{
+    width: 498px;
+    height: 115px;
+    font-size: 42px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.box1{
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+    margin-left: 280px;
+    margin-top: 10px;
+    padding-left: 25px;
+    padding-top: 23px;
+}
+
+.cardfood{
+    display: flex;
+    /* padding-top: 50px; */
+    margin-top: 50px;
+}
+
+.food1{
+    width: 536px;
+    height: 190px;
+    
+    
+    
+}
+.picture1{
+    height: 190px;
+    width: 168px;
+}
+
+.food2{
+    width: 536px;
+    height: 190px;
+    margin-left: 16px;
+   
+}
+
+.cardfood2{
+    display: flex;
+    
+}
+.picture2{
+    height: 190px;
+    width: 168px;
+}
+.card-title{
+   color: blue;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+.card-text{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+
+
+}
+.card-text2{
+    color: gray;
+    width: 260px;
+    height: 62px;
+    
+}
+
+.ragac{
+    position: absolute;
+
+}
+
+/*  */
+.cont3{
+    width: 1366px;
+    height: 100%;
+   
+}
+.inpute{
+   
+    width: 1366px;
+    height: 190px;
+    margin-top: 72px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+}
+.input{
+    
+    /* width: 1366px;
+    height: 190px; */
+    background-color: #F8F8F8;
+   padding-left: 139px;
+}
+
+.dataname{
+    color: #5863F8;
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 53px;
+}
+#date{
+    width: 260px;
+    height: 60px;
+    margin-top: 5px;
+}
+.button1{
+    width: 260px;
+    height: 60px;
+    background-color: blue;
+    margin-top: 70px;   
+     margin-right: 145px;
+   
+}
+.inp2{
+   padding-left: 16px;
+   
+}
+
+.inp3{
+    
+    padding-left: 16px;
+}
+.inp4{
+    
+    padding-left: 16px;
+}
+
+
+/* section 5 */
+
+.cont4{
+    width: 1336px;
+    height: 100%;
+}
+.photos{
+   margin-top: 90px;
+
+    
+}
+.photos2{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    width: 58px;
+    height: 20px;
+    padding-left: 139px;
+    /* margin-top: 90px; */
+    font-family: 'Poppins', sans-serif;
+}
+.phototext2{
+    width: 765px;
+    height: 115px;
+    font-weight: bolder;
+    font-size: 42px;
+    padding-left: 139px;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.imagephotos{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    
+}
+.imagephotos1{
+    width: 339px;
+    height: 339px;
+    
+   
+}
+.button2{
+   width: 60px;
+   height: 60px;
+   background-color: blue;
+   margin-top: 146px;
+   position: absolute;
+   padding-left: 20px;
+   margin-left: 1200px;
+   
+   
+}
+.button2 img{
+    padding-top: 20px;
+}
+.imagecontrol{
+    width: 1336px;
+    padding-right: 130px;
+}
