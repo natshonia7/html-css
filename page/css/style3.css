@@ -189,10 +189,19 @@ a{
     margin-top: 16px;
 }
 
+
+
+
 .divcont4{
     width: 1366px;
     height: 100%;
+    ;
 }
+
+
+
+
+
 .email{
     background-color: blue;
     width: 59px;
@@ -200,25 +209,167 @@ a{
     border-radius: 30px;
     margin-left: 280.5px;
     margin-top: 50px;
+   
 }
 
 .email img{
     padding-left: 19px;
     padding-top: 22px;
+   
 }
 .emailtext{
     margin-top: 30px;
     margin-left: 285px;
     width: 50px;
     height: 25px;
+  
 }
-.Gmail{
-    padding-right: 30px;
+.gmail{
     width: 362px;
     height: 44px;
     font-size: 14px;
     margin-left: 129px;
+    padding-left: 100px;
+    color: gray;
+    
+   
 }
-.Gmail2{
-    padding-left: 300px;
+.phone{
+    background-color: blue;
+    width: 59px;
+    height: 58px;
+    border-radius: 30px;
+    margin-left: 280.5px;
+    margin-top: 50px;
+  
+}
+
+.phone img{
+    padding-left: 19px;
+    padding-top: 22px;
+}
+.phonenumber{
+    width: 362px;
+    height: 44px;
+    font-size: 14px;
+    margin-left: 129px;
+    padding-left: 100px;
+    color: gray;
+      
+}
+
+.location{
+    background-color: blue;
+    width: 59px;
+    height: 58px;
+    border-radius: 30px;
+    margin-left: 280.5px;
+    margin-top: 50px;
+ 
+}
+.location img{
+    padding-left: 22px;
+    padding-top: 20px;
+}
+
+.contactus{
+    display: flex;
+}
+.phonetext{
+    margin-top: 30px;
+    margin-left: 280px;
+    width: 50px;
+    height: 25px;
+ 
+}
+/* .phonelocation{
+    padding-left: 353.5px;
+    margin-bottom: 30px;
+} */
+.phonelocation{
+   margin-left: 350px;
+   margin-top: -100px;
+}
+.phonenumber{
+    margin-left: 150px;
+    padding-top: 5px;
+}
+
+.streetlocation{
+    margin-left: 875px;
+    margin-top: -100px;
+}
+.locationtext{
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 50px;
+    height: 25px;
+}
+.loca{
+    margin-top: 5px;
+    padding-left: 22px;
+    color: gray;
+}
+
+/* section 4 */
+
+.cont5{
+    width: 1336px;
+    height: 100%;
+}
+.photos{
+   margin-top: 90px;
+
+    
+}
+.photos2{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    width: 58px;
+    height: 20px;
+    padding-left: 139px;
+    /* margin-top: 90px; */
+    font-family: 'Poppins', sans-serif;
+}
+.phototext2{
+    width: 765px;
+    height: 115px;
+    font-weight: bolder;
+    font-size: 42px;
+    padding-left: 139px;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.imagephotos{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    
+}
+.imagephotos1{
+    width: 339px;
+    height: 339px;
+    
+   
+}
+.button2{
+   width: 60px;
+   height: 60px;
+   background-color: blue;
+   margin-top: 146px;
+   position: absolute;
+   padding-left: 20px;
+   margin-left: 1200px;
+   
+   
+}
+.button2 img{
+    padding-top: 20px;
+}
+.imagecontrol{
+    width: 1336px;
+    padding-right: 130px;
 }
