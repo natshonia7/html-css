@@ -73,7 +73,7 @@ a {
     height: 148px;
     /* background-color: #FFFFFF; */
     margin-top: -70px;
-  
+
 }
 
 
@@ -84,15 +84,16 @@ a {
     width: 1088px;
     height: 148px;
     margin-left: 100px;
-   
+
 }
 
 .input {
 
-   
+
     padding-left: 92px;
 }
-.input1{
+
+.input1 {
     padding-left: 92px;
 }
 
@@ -147,16 +148,16 @@ a {
 
 
 .text {
-
-    margin-top: 128px;
-    margin-left: 139px;
     width: 444px;
     height: 388px;
+    margin-top: 128px;
+    margin-left: 139px;
 }
 
 .text h6 {
     font-weight: bold;
     color: blue;
+     font-size: 14px;
 }
 
 .text h2 {
@@ -168,18 +169,20 @@ a {
 }
 
 
-.one1{
+.one1 {
     font-size: 16px;
     color: #000000;
-   
-    
+
+
 }
-.two2{
+
+.two2 {
     font-size: 14px;
     padding-top: 10px;
-    
+
 }
-.button{
+
+.button {
     width: 184px;
     height: 50px;
     background-color: #5863F8;
@@ -193,20 +196,23 @@ a {
 .imageall {
     /* padding-right: 691px; */
     margin-left: 108px;
-    margin-top: 90px;
+    margin-top: 110px;
     /* width: 536px;
     height: 461px; */
 
 }
-.image{
+
+.image {
     display: flex;
 }
-.image >img{
+
+.image>img {
     width: 260px;
     height: 185px;
     padding-left: 16px;
 }
-.image3{
+
+.image3 {
     width: 522px;
     height: 260px;
     object-fit: cover;
@@ -262,7 +268,7 @@ a {
 
 }
 
-.icon{
+.icon {
     /* margin-left: 47px; */
     /* padding-left: 50px; */
     margin-top: 85px;
@@ -270,13 +276,15 @@ a {
     height: 60px;
     background-color: azure;
     margin-left: 47px;
-    
+
 }
-.icon >img{
+
+.icon>img {
     padding-left: 30px;
     padding-top: 24px;
     margin-right: 25px;
 }
+
 .card1 {
     width: 260px;
     height: 260px;
@@ -286,7 +294,7 @@ a {
 
 }
 
-.card1-1{
+.card1-1 {
     width: 200px;
     height: 52px;
     font-weight: bold;
@@ -294,25 +302,28 @@ a {
     padding-top: 15px;
     padding-left: 47px;
 }
-.card2-2{
+
+.card2-2 {
     font-weight: bold;
     padding-top: 15px;
     padding-left: 28px;
     width: 160px;
     font-size: 16px;
 }
-.card3-3{
+
+.card3-3 {
     font-weight: bold;
     padding-top: 15px;
     padding-left: 24px;
 }
-.card4-4{
+
+.card4-4 {
     font-weight: bold;
     padding-top: 15px;
     padding-left: 16px;
 }
 
-.card-1{
+.card-1 {
     width: 221px;
     height: 62px;
     color: gray;
@@ -370,7 +381,8 @@ a {
     background-color: azure;
 
 }
-.icon1 >img{
+
+.icon1>img {
     padding-left: 30px;
     padding-top: 24px;
     margin-right: 25px;
@@ -625,8 +637,8 @@ a {
     height: 395px;
     background-color: black;
     margin-left: 80px;
-    
-    
+
+
 }
 
 .zattahotels {
@@ -686,32 +698,35 @@ a {
     padding-top: 10px;
     border: none;
 }
-.usefullinks{
+
+.usefullinks {
     display: inline-block;
     margin-left: 130px;
     position: absolute;
     margin-top: 90px;
 }
 
-.privacy{
+.privacy {
     display: inline-block;
     position: absolute;
     margin-top: 90px;
     margin-left: 330px;
-    
+
 }
 
-.contactinfo{
+.contactinfo {
     display: inline-block;
     position: absolute;
     margin-top: 90px;
     margin-left: 600px;
-    
+
 }
-.info{
+
+.info {
     margin-left: -40px;
 }
-.active{
-   padding-top: 8px;
-   
+
+.active {
+    padding-top: 8px;
+
 }
