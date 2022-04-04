@@ -11,6 +11,315 @@ a{
 /* .body{
     width: 1366px;
 } */
+.container{
+    width: 1366px;
+    height: 324px;
+    position: relative;
+}
+
+.menu{
+    position: absolute;
+    left: 139px;
+    top: 30px;
+}
+.logo{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    width: 86px;
+    height: 20px;
+    padding-top: 30px;
+    
+}
+.list ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 439px;    
+    
+}
+.nav-a{
+    color: white;
+    font-size: 12px;
+    padding-left: 49px;   
+    font-weight: bold;
+    font-size: 12px;
+   
+}
+.heading h1{
+    color: #FFFFFF;
+    width: 246px;
+    height: 59px;
+    font-weight: bolder;
+    font-size: 42px;
+    padding-top: 96px;
+    
+}
+
+.home{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 30px;
+    padding-top: 30px;
+   
+    width: 42px;
+    
+   
+}
+.home2{
+   color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    
+    
+}
+.divider{
+   border: 1px solid white;
+   margin-left: 14.5px;
+}
+.home3{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 14.5px;
+}
+
+/* section 2 */
+.divcontainer{
+    width: 1336px;
+    height: 100%;
+    
+}
+.aboutus{
+    margin-left: 139px;
+    margin-top: 90px;
+    
+
+}
+
+.aboutus p{
+    font-weight: bold;
+    color: blue;
+}
+.aboutus h2{
+    font-size: 42px;
+    width: 375px;
+    height: 115px;
+    font-weight: bolder;
+}
+
+.cardboxes1{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    /* margin-left: 16px; */
+    position: relative;
+    margin-left: 139px;
+    
+    
+}
+.ragac{
+    height: 190px;
+    width: 536px;
+}
+.surati{
+    height: 190px;
+    width: 60px;
+    padding-left: 280px;
+    padding-bottom: 270px;
+    
+}
+.bluebox{
+    background-color: blue;
+    height: 190px;
+    width: 60px;
+    position: absolute;
+    left: 476px;
+  
+}
+.arrow2{
+    margin-top: 88px;
+    margin-left: 23px;
+}
+.cardboxes2{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 16px;
+    position: relative;
+    margin-left: 139px;
+}
+.cardboxes3{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+   
+    position: relative;
+    margin-left: 139px;
+}
+.card-title{
+    color: blue;
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 37px;
+  
+}
+.card-text{
+    width: 260px;
+    height: 62px;
+    font-size: medium;
+    font-weight: bold;
+    color: #B1B1B1;
+    padding-top: 10px;
+    font-size: 14px;
+}
+.card-textt{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.cardboxes4{
+    
+    display: -webkit-box;
+    
+    display: -ms-flexbox;
+    
+    display: flex;
+    margin-left: 16px;
+   
+    
+
+}
+/* section3 */
+
+.inpute{
+   
+    width: 1366px;
+    height: 190px;
+    margin-top: 72px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+}
+.input{
+    
+    /* width: 1366px;
+    height: 190px; */
+    background-color: #F8F8F8;
+   padding-left: 139px;
+}
+
+.dataname{
+    color: #5863F8;
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 53px;
+}
+#date{
+    width: 260px;
+    height: 60px;
+    margin-top: 5px;
+}
+.button1{
+    width: 260px;
+    height: 60px;
+    background-color: blue;
+    margin-top: 70px;   
+     margin-right: 145px;
+   
+}
+.inp2{
+   padding-left: 16px;
+   
+}
+
+.inp3{
+    
+    padding-left: 16px;
+}
+.inp4{
+    
+    padding-left: 16px;
+}
+
+
+/* section4 */
+.divcontainer3{
+    height: 100%;
+}
+.photos{
+    width: 1366px;
+    height: 352px;
+    
+}
+.photos2{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    width: 58px;
+    height: 20px;
+    padding-left: 139px;
+    /* margin-top: 90px; */
+    font-family: 'Poppins', sans-serif;
+}
+.phototext2{
+    width: 765px;
+    height: 115px;
+    font-weight: bolder;
+    font-size: 42px;
+    padding-left: 139px;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.imagephotos{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    
+}
+.imagephotos1{
+    width: 342px;
+    height: 342px;
+    
+   
+}
+.button2{
+   width: 60px;
+   height: 60px;
+   background-color: blue;
+   margin-top: 146px;
+   position: absolute;
+   padding-left: 20px;
+   margin-left: 1200px;
+   
+   
+}
+.button2 img{
+    padding-top: 20px;
+}
+.imagecontrol{
+    width: 1336px;
+    padding-right: 130px;
+}
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+a{
+    text-decoration: none;
+}
+/* .body{
+    width: 1366px;
+} */
 .divcont1{
     width: 1366px;
     height: 324px;
