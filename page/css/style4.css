@@ -504,6 +504,548 @@ h2{
 }
 .privacy h3{
     font-size: 22px;
+}.container{
+    width: 1366px;
+    height: 100%;
+    position: relative;
+}
+
+.menu{
+    position: absolute;
+    left: 139px;
+    top: 30px;
+}
+.logo{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    width: 86px;
+    height: 20px;
+    padding-top: 30px;
+    
+}
+.list ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 439px;  
+    font-size: 12px;    
+}
+.nav-a{
+    color: white;
+    font-size: 12px;
+    padding-left: 49px;   
+    font-weight: bold;
+    font-size: 12px;
+   
+}
+.heading h1{
+    color: #FFFFFF;
+    width: 246px;
+    height: 59px;
+    font-weight: bolder;
+    font-size: 42px;
+    padding-top: 96px;
+    
+}
+
+.home{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 30px;
+    padding-top: 30px;
+   
+    width: 42px;
+    
+   
+}
+.home2{
+   color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    
+    
+}
+.divider{
+   border: 1px solid white;
+   margin-left: 14.5px;
+}
+.home3{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 14.5px;
+    width: 63px;
+    height: 20px;
+    /* line-height: 30px; */
+}
+
+/* imageall */
+.cont1{
+    width: 1366px;
+    height: 460px;
+     
+}
+.imageall{
+    display: flex;
+    margin-top: 90px;
+   /* margin-right: 139px; */
+   margin-left: 139px;
+   /* position: relative; */
+
+}
+.image1 img{
+    width: 260px;
+    height: 461px;
+    object-fit: cover;
+    
+}
+.imageone{
+    width: 260px;
+    height: 185px;
+    padding-left: 16px;
+}
+
+.imagetwo{
+    position: absolute;
+    width: 245px;
+    height: 260px;
+    margin-top: 200px;
+    margin-left: 275px;
+    
+}
+
+
+
+/* start 2 */
+.container{
+    width: 1366px;
+    height: 100%;
+}
+.aboutus{
+    width: 444px;
+    height: 388px;
+    margin-top: 128px;
+    margin-left: 139px;
+    display: inline-block;
+    
+
+}
+h6{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+}
+h2{
+    width: 374px;
+    height: 115px;
+    font-size: 42px;
+    font-weight: bolder;
+    padding-top: 1px;
+}
+.one{
+    font-size: 16px;
+    
+}
+.two{
+    font-size: 16px;
+    padding-top: 10px;
+}
+.button{
+    width: 184px;
+    height: 50px;
+    background-color: #5863F8;
+    margin-top: 20px;
+
+}
+
+
+.image{
+    display: inline-block;
+    position: absolute;
+    padding-left: 108px;
+}
+.image>img{
+   
+    width: 260px;
+    height: 185px;
+    top: 30px;
+   vertical-align: bottom;
+   margin-top: 90px;
+   padding-left: 16px;
+   
+}
+.image1 img{
+   width: 510px;
+   height: 260px;
+   object-fit: cover;
+   padding-top: 16px;
+   margin-left: 15px ;
+}
+
+
+
+/* section 3 */
+.leafphoto{
+    background-image: url(../image/Group\ 13.png);
+    width: 1366px;
+    height: 612px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 90px;
+
+}
+
+
+.text2 {
+
+    padding-top: 43px;
+    padding-right: 851px;
+    padding-left: 139px;
+    
+}
+.text2 h6{
+    margin-top: 92px;
+    color: #5863F8;
+    
+}
+.text2 h2{
+    padding-top: 1px;
+    color: white;
+    font-weight: bolder;
+    font-size: 42px;
+    width: 376px;
+    height: 115px;
+}
+.cardboxes{
+    margin-top: 34px;
+}
+
+.icon{
+    width: 60px;
+    height: 60px;
+    background-color: gray;
+   margin-left: 47px;
+   margin-top: 110px;
+}
+.icon2{
+    width: 60px;
+    height: 60px;
+    background-color: grey;
+    margin-left: 30px;
+    margin-top: 110px;
+}
+.icon2 img{
+    padding-left: 1px;
+    padding-top: 7px;
+}
+.icon img{
+    padding-left: 25px;
+    padding-top: 24.5px;
+}
+
+.circle {
+    position: relative;
+    border-radius: 100%;
+    border: 6px solid blue;
+    background-color: blue;
+    width: 59px;
+    height: 58px;
+    margin-top: 27px;
+    margin-left: 90px;
+
+}
+
+.cardboxes {
+    display: flex;
+    margin-right: 139px;
+    
+}
+
+.card1{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 30px;
+
+}
+.card2 {
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 16px;
+    /* margin-right: 691px; */
+}
+
+
+.card3 {
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 16px;
+    /* margin-right: 691px; */
+}
+
+.card4 {
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    margin-left: 16px;
+    /* margin-right: 691px; */
+}
+
+.card1-1{
+    width: 166px;
+    height: 52px;
+    font-size: 18px;
+    padding-top: 15px;
+    margin-left: 47px;
+    font-weight: bold;
+}
+.card-11{
+   width: 221px;
+   height: 62px;
+   color: #B1B1B1;
+   margin-left: 20px;
+   padding-top: 20px;
+}
+.card2-2{
+    width: 160px;
+    height: 52px;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+    margin-left: 50px;
+}
+.card3-3{
+    width: 156px;
+    height: 52px;
+    font-size: 18px;
+    padding-top: 15px;
+    margin-left: 52px;
+    font-weight: bold;
+}
+.card4-4{
+    width: 188px;
+    height: 52px;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+    margin-left: 36px;
+}
+.flat{
+    margin-top: 7px;
+    margin-left: 7px;
+}
+
+
+/* s-4 */
+
+.testimonials{
+    display: flex;
+    
+}
+.marious{
+    width: 783px;
+    height: 100%;
+    margin-left: 50px;
+}
+
+.marious h6{
+    width: 101px;
+    height: 20px;
+    color: blue;
+    margin-top: 76px;
+    margin-right: 139px;
+}
+.marious h3{
+    width: 512px;
+    height: 115px;
+    font-size: 42px;
+    font-weight: bold;
+}
+.photo >img{
+    width: 583px;
+    height: 487px;
+    object-fit: cover;
+    margin-left: 221px;
+}
+
+
+.photomarius >img{
+    width: 57px;
+    height: 57px;
+    display: inline-block;
+    margin-top: 30px;
+}
+.mariusp{
+    width: 149px;
+    height: 25px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 43px;
+    margin-left: 19px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.mariuss{
+    font-size: 12px;
+}
+.textmarius{
+    width: 352px;
+    height: 62px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+/* s-5 */
+.photos222{
+    margin-top: 90px;
+    color: #5863F8;
+}
+.photoebi{
+    display: flex;
+}
+.phototext222{
+    width: 565px;
+    height: 115px;
+}
+.photoebi >img{
+    width: 340px;
+    height: 340px;
+}
+
+
+/* footer */
+.container{
+    width: 1366px;
+}
+.footer {
+    width: 1360px;
+    height: 395px;
+    background-color: black;
+    
+
+}
+.linkks{
+    font-size: 18px;
+}
+
+.zattahotels {
+    width: 260px;
+    height: 191px;
+    margin-left: 139px;
+    padding-top: 120px;
+    display: inline-block;
+}
+
+.zhotels {
+    color: white;
+}
+
+.zattahotels p {
+    color: #B1B1B1;
+}
+
+
+.cdn {
+    display: flex;
+}
+
+.circle22 {
+
+    margin: 0.15em;
+    font-size: 3em;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+}
+
+.fa-facebook {
+
+    color: #FFFFFF;
+    /* padding-left: 15px;
+    padding-top: 15px; */
+    padding-left: 11px;
+    padding-top: 8px;
+    background-color: #5863F8;
+    border: none;
+}
+
+.fa-twitter {
+
+    color: #FFFFFF;
+    padding-left: 12px;
+    padding-top: 10px;
+    background-color: #55ACEE;
+    border: none;
+}
+
+.fa-google-plus {
+    color: #FFFFFF;
+    background: #dd4b39;
+    padding-left: 7px;
+    padding-top: 10px;
+    border: none;
+}
+.usefullinks{
+    display: inline-block;
+    margin-left: 130px;
+    position: absolute;
+    margin-top: 120px;
+    
+   
+}
+.usefullinks h4{
+    font-size: 24px;
+}
+
+.privacy{
+    display: inline-block;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 330px;
+    
+    
+}
+.privacy h3{
+    font-size: 22px;
+}
+.decorat{
+    padding-top: 20px;
+}
+
+.decorat li a{
+    text-decoration: none;  
+    
+   
+}
+.decor1 a{
+    padding-top: 10px;
+}
+.contactinfo{
+    display: inline-block;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 600px;
+    
+}
+.contactinfo h3{
+    font-size: 24px;
+}
+.info{
+    margin-left: -40px;
+    padding-top: 15px;
+}
+.active{
+   padding-top: 8px;
+   
+}
+.dec1{
+    padding-top: 20px;
 }
 .decorat li a{
     text-decoration: none;
