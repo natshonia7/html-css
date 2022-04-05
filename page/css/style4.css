@@ -339,10 +339,12 @@ h2{
 
 .testimonials{
     display: flex;
+    margin-left: 50px;
 }
 .marious{
     width: 783px;
     height: 100%;
+    
 }
 
 .marious h6{
