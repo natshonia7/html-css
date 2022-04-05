@@ -344,7 +344,7 @@ h2{
 .marious{
     width: 783px;
     height: 100%;
-    
+    margin-left: 50px;
 }
 
 .marious h6{
@@ -364,7 +364,7 @@ h2{
     width: 583px;
     height: 487px;
     object-fit: cover;
-    margin-left: 271px;
+    margin-left: 221px;
 }
 
 
@@ -392,7 +392,6 @@ h2{
     width: 352px;
     height: 62px;
     font-size: 18px;
-   
     margin-top: 30px;
 }
 
@@ -421,6 +420,9 @@ h2{
     background-color: black;
     
 
+}
+.linkks{
+    font-size: 18px;
 }
 
 .zattahotels {
@@ -484,23 +486,39 @@ h2{
     display: inline-block;
     margin-left: 130px;
     position: absolute;
-    margin-top: 110px;
+    margin-top: 120px;
+    
+   
+}
+.usefullinks h4{
+    font-size: 24px;
 }
 
 .privacy{
     display: inline-block;
     position: absolute;
-    margin-top: 110px;
+    margin-top: 120px;
     margin-left: 330px;
     
+    
 }
-
+.privacy h3{
+    font-size: 22px;
+}
+.decorat li a{
+    text-decoration: none;
+   
+    
+}
 .contactinfo{
     display: inline-block;
     position: absolute;
-    margin-top: 110px;
+    margin-top: 120px;
     margin-left: 600px;
     
+}
+.contactinfo h3{
+    font-size: 24px;
 }
 .info{
     margin-left: -40px;
